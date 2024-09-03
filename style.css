@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    background-color: skyblue;
+    height: 100vmin;
+}
+
+.num{
+    margin-top: 12px;
+    height: 8vmin;
+    width: 8vmin;
+    border-radius: 1rem;
+    border: none;
+    background-color:orange;
+}
+
+.input{
+    margin-top: 20px;
+    width: 250px;
+    height: 25px;
+    font-size: 20px;
+}
